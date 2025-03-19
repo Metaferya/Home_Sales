@@ -1,5 +1,4 @@
-# Home_Sales# Home Sales Analysis Using PySpark
-
+# Home_Sales
 ## Overview
 
 This project utilizes Apache Spark and PySpark SQL to analyze a dataset of home sales. The goal is to extract insights such as average home prices based on different conditions, optimize query performance using caching and partitioning, and compare execution times across different storage formats.
